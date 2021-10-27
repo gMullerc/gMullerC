@@ -10,7 +10,7 @@
   <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="gMullerc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gMullerc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="right" alt="Rafa-pic" height="180" style="border: 30px;" src="https://tm.ibxk.com.br/2021/04/20/20141031772049.jpg">
+<img align="right" alt="gMullerc-pic" height="150" style="border: 30px;" src="https://tm.ibxk.com.br/2021/04/20/20141031772049.jpg">
 </div>
   
   ##
