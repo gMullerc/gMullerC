@@ -1,4 +1,4 @@
-## Oiii, eu sou o Guilherme Muller!!!
+## Oi, eu sou o Guilherme Muller!!!
 
 <div align="center">
   <a href="https://github.com/gMullerc">
