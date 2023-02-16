@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/gMullerc">
-        <img width="50%" height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gMullerc&hide_progress=true&hide_progress=true&theme=radical"/>
+        <img width="50%" height="250rem" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Guilherme&theme=dark&border_radius=12.4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)"/>
        <img width="50%" height="200rem" src="https://github-readme-stats.vercel.app/api?username=gmullerc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 </div>
