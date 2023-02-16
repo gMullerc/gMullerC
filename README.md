@@ -6,7 +6,7 @@
     <a href="https://github.com/gMullerc">
         <img width="45%" height="200rem" src="https://github-readme-stats.vercel.app/api?username=gmullerc&show_icons=true&theme=dark"/>
       <a href="https://github.com/gMullerc">
-        <img width="45%" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true"/>
+        <img width="45%" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmullerc&theme=dark&hide_progress=true"/>
         
 <picture>
 <source 
