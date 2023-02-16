@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/gMullerc">
         <img width="50%" height="250rem" src="http://github-readme-streak-stats.herokuapp.com?user=Guilherme&theme=dark&border_radius=12.4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
-       <img width="50%" height="200rem" src="https://github-readme-stats.vercel.app/api?username=gmullerc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
 
 </div>
 <div style="display: inline-block"><br>
