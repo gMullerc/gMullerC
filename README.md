@@ -4,13 +4,13 @@
   <a href="https://github.com/gMullerc">
         <img width="100%" height="250rem" src="http://github-readme-streak-stats.herokuapp.com?user=Guilherme&theme=dark&border_radius=12.4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
     <a href="https://github.com/gMullerc">
-        <img width="45%" height="200rem" src="http://github-readme-streak-stats.herokuapp.com?user=Guilherme&theme=dark&border_radius=12.4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
+        <img width="45%" height="200rem" src="https://github-readme-stats.vercel.app/api?username=gmullerc&show_icons=true&theme=dark"/>
       <a href="https://github.com/gMullerc">
         <img width="45%" height="200rem" src="http://github-readme-streak-stats.herokuapp.com?user=Guilherme&theme=dark&border_radius=12.4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
         
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=gmullerc&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 
