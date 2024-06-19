@@ -24,6 +24,9 @@
   <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
    <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
    <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
+   <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> 
+ <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg"> 
+ 
    <br>
   <h3>Banco de dados</h3>
   <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
