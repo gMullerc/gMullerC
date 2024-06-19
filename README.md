@@ -31,12 +31,7 @@
   <h3>Banco de dados</h3>
   <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="gMullerc-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  
-  
-      
-  
-  
-  
+     <img align="center" alt="gMullerc-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   
   
    <img align="right" alt="gMullerc-pic" width="180rem" height="150rem" src="https://tm.ibxk.com.br/2021/04/20/20141031772049.jpg">
