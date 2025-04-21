@@ -5,6 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gmullerc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmullerc&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 </div>
 <div style="display: inline-block"><br>
   <h3>Front end</h3>
@@ -15,7 +16,7 @@
    <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><br>
   <h3>Back end</h3>
   <img align="center" alt="gMullerc-CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
- 
+
    <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <br>
@@ -25,21 +26,25 @@
    <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
    <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> 
  <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg"> 
- 
+
    <br>
   <h3>Banco de dados</h3>
   <img align="center" alt="gMullerc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="gMullerc-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
      <img align="center" alt="gMullerc-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  
-  
+
+
    <img align="right" alt="gMullerc-pic" width="180rem" height="150rem" src="https://tm.ibxk.com.br/2021/04/20/20141031772049.jpg">
-  
+
 </div>
-  
-  
+
+
   ##
 <div> 
+  <a href="https://instagram.com/gmullerc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilherme.mcosta15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gmullerc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+
+ 
 </div>
