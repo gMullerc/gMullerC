@@ -1,9 +1,5 @@
 <h2 align="left">Olá👋! Eu sou o Guilherme</h2>
-<h3 align="left> Estudante de Ciência da Computação com experiência em
- desenvolvimento mobile, backend e frontend. Participei de projetos de
- grande escala para o Estado de São Paulo, como SGZ, SGF, REC e
- GEDAVE. Tenho facilidade de adaptação, boa comunicação e foco em
- soluções escaláveis</h3>
+
 ###
 
 <div align="center">
